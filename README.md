@@ -1,18 +1,18 @@
 <div align="center">
-  <img src="https://example.com/your-profile-banner.png" alt="Showmik Podder - Data Analyst Banner" width="800"/>
+ 
   <h1>👋 Hi there, I'm Showmik Podder! 👋</h1>
   <p>A passionate Data Analyst eager to transform data into actionable insights.</p>
 </div>
 
 ---
 
-### About Me
+### 📃About Me
 
 I'm Showmik Podder, a dedicated and enthusiastic data analyst with a strong foundation in various data tools and technologies. My passion lies in extracting meaningful stories from complex datasets and presenting them in a clear, concise, and impactful way. I believe that every dataset holds a unique narrative waiting to be uncovered, and I thrive on the challenge of bringing those narratives to light.
 
 I'm always looking for new opportunities to learn, grow, and contribute to data-driven projects that make a real difference.
 
-### My Skills & Toolkit
+### 🔱My Skills & Toolkit
 
 Here's a glimpse into the tools and languages I leverage to make data sing:
 
@@ -34,7 +34,7 @@ Here's a glimpse into the tools and languages I leverage to make data sing:
 
 ---
 
-### My Projects
+### 💻My Projects
 
 Here you'll find a collection of my projects showcasing my skills in data cleaning, analysis, visualization, and more. Feel free to explore and provide feedback!
 
@@ -47,7 +47,7 @@ Here you'll find a collection of my projects showcasing my skills in data cleani
 
 ---
 
-### Get in Touch!
+### 📡Get in Touch!
 
 I'm always open to connecting with fellow data enthusiasts, collaborators, and potential employers. Let's build something amazing together!
 
@@ -58,9 +58,4 @@ I'm always open to connecting with fellow data enthusiasts, collaborators, and p
 
 ---
 
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Showmik's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="Showmik's GitHub Streak"/>
-</div>
+### 📊 My GitHub Stats
