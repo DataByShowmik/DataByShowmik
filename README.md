@@ -53,7 +53,11 @@ I'm always open to connecting with fellow data enthusiasts, collaborators, and p
 
 <div align="center">
   <a href="www.linkedin.com/in/showmik-podder" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
-  <a href="mailto:poddershowmik014@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/></a>
+  <a href="mailto:poddershowmik014@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+ <a href="https://showmikportfolio.my.canva.site/showmik" target="_blank">
+  <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Badge"/>
+</a>
   </div>
 
 ### 📊 My GitHub Stats
